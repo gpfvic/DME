@@ -70,11 +70,3 @@ for i in string_index:
 	
 	
 
-
-	
-	
-
-
-
-
-
